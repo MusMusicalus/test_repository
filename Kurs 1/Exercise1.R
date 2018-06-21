@@ -51,6 +51,8 @@ for(i in 1:100){
   my_function2(i)
 }
 
+#test
+
 #identify all data files with the pattern="file*"
 #and delete them
 
